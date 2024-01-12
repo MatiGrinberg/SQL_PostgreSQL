@@ -1,9 +1,9 @@
 # SQL_PostgreSQL
-Example to showcase my skill in DB
-
-+ Item 1
-+ Item 2
-  + Subitem 2.1
-  + Subitem 2.2
-+ Item 3
+Example to showcase my skill in DB, using PostgreSQL in PgAdmin4.
++ Created a DB and tables
++ Inserted values in it
++ Altered those tables
++ Queries for getting data and performed joins
++ Defined functions
++ Used PL/SQL and Stored Procedures
 
